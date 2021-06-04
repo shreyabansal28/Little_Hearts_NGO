@@ -1,0 +1,167 @@
+/*navigation bar*/
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+	background-color: #111;
+  }
+  /*MAIN MENU*/
+#homeheading{
+	background-image:url(https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/article/2020/08/05/children-and-adolescents-are-less-sensitive-to-sweet-taste-study/11644563-1-eng-GB/Children-and-adolescents-are-less-sensitive-to-sweet-taste-study_wrbm_large.jpg);
+    background-repeat: no-repeat;
+	background-size:100% ;
+	height:200px;
+	border: 2px solid black;
+}
+
+h5{
+	text-align: center;
+	font-size: 40px;
+	color:rgb(63, 4, 4);
+}
+	.transbox {
+		margin: 30px;
+		background-color: #ffffff;
+		border: 1px solid black;
+		opacity: 0.6;
+	  }
+	  
+	  .transbox h1{
+		text-align: center;
+		font-family: 'Grandstander', cursive;
+		margin: 2%;
+		font-weight: bold;
+		color: #000000;
+	  }
+#do{
+    color:rgb(70, 0,0);
+	border: 5px solid rgb(70, 0, 0);
+	background-color: rgb(255, 233, 184);
+	font-family: 'Grandstander', cursive;
+}
+img{
+	
+	float: right;
+	margin: 2%;
+	border: 5px solid rgba(73, 0, 0, 0.836);
+}
+.home{
+	overflow: hidden;
+	color:rgb(255, 255, 255);
+	border: 9px solid rgba(73, 0, 0, 0.836);
+	background-color: rgb(6, 94, 53);
+	font-family: 'Grandstander', cursive;
+}
+
+
+/*contact*/
+#contact
+{
+ text-align: center;
+}
+.contact-heading
+{
+ text-align: center;
+ font-size: 3rem;
+ padding: 10%;
+ font-family: 'Montserrat', sans-serif;
+ color: black;
+ background-image:url(https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/article/2020/08/05/children-and-adolescents-are-less-sensitive-to-sweet-taste-study/11644563-1-eng-GB/Children-and-adolescents-are-less-sensitive-to-sweet-taste-study_wrbm_large.jpg);
+ 
+
+background-repeat: no-repeat;
+	background-size:100% ;
+	height:200px;
+ font-size: 4rem;
+}
+.contact-subheading
+{
+ padding:  7% 15%;
+ background-color: #aaaaaa;
+ /*     background-color: #f1f3f8;*/
+ line-height: 2rem;
+}
+.contact-subheading h1
+{
+ color: black;
+ font-family: 'Grandstander', cursive;
+}
+
+.contact-subheading p
+{
+ /*    color:#838383; */
+ color: black;
+ margin-left: 40px;
+ margin-right: 40px;
+ font-family: 'Ubuntu', sans-serif;
+}
+.contact-subheading span
+{
+ color: #625261;
+ font-size: 20px;
+}
+.contact-icons
+{
+ padding: 7% 15%;
+ /*    background-color: #838383;*/
+ background-color: #f4f4f4;
+ color: #838383;
+}
+.contact-icons h4
+{
+ font-weight: 700;
+ color: black;
+ font-family: 'Grandstander', cursive;
+}
+.icon
+{
+ margin-bottom: 1rem;
+}
+.contact-column
+{
+ padding: 5%;
+}
+/*FOOTER*/
+#footer
+{
+ text-align: center;
+ padding: 7% 15%;
+ font-family:inherit;
+}
+.social-icon
+{
+ margin: 20px 10px;
+}
+/*gallery*/
+.gallery-img
+{
+ height: 85%;
+ width: 85%;
+ margin-bottom: 0%;
+ text-align: center;
+}
+.gallery-heading
+{
+ text-align: center;
+ font-size: 3rem;
+ padding: 70px;
+ font-family: 'Montserrat', sans-serif;
+}
